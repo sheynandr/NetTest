@@ -8,7 +8,7 @@
 @echo '[3] Listing Running Programs'
 @tasklist >> ./NetTest.txt
 @echo '[4] NsLookup to foxygame.ru'
-@nslookup foxygame.ru >> ./NetTest.text
+@nslookup foxygame.ru >> ./NetTest.txt
 @echo '[5] NsLookup to sv1.foxygame.ru'
 @nslookup sv1.foxygame.ru >> ./NetTest.txt
 @echo '[6] Done'
